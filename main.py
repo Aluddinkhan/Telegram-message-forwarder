@@ -1,10 +1,10 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Define your Telegram bot token
-TOKEN = 'your_telegram_bot_token'
+TOKEN = '7185060329:AAG810yoDG5jEazhRkDEKUditI896q2a1ns'
 
 # Define the chat ID where you want to forward messages
-FORWARD_CHAT_ID = 'destination_chat_id'
+FORWARD_CHAT_ID = '1002058397121'
 
 # Define a function to handle the /start command
 def start(update, context):
